@@ -1,7 +1,6 @@
 # Open source games
 
 This is a list of different open-source video games and commercial video games open-source remakes.
-We refer various game opensources.
 
 ## Table of contents
 

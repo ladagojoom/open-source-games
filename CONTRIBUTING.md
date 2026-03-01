@@ -17,3 +17,5 @@
 * Do not include trailing `/` character from the URL.
 
 * Write a [good](https://chris.beams.io/posts/git-commit) commit message.
+
+* Write a [good](https://chris.beams.io/posts/git-commit) commit message.
